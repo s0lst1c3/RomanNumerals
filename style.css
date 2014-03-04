@@ -1,0 +1,43 @@
+.logoimg {
+    height: auto;
+    width: 200px;
+    margin: 0 auto;
+}
+.logoimg img {
+    height: 300px;
+    width: auto;
+    margin: 0 auto;
+}
+body h2 {
+    font-family: Petrona;
+    width: 330px;
+    margin: 2px auto;
+    color: red;
+}
+.io-box {
+    border-radius: 8px;
+    margin: 0 auto;
+    width: 200px;
+    height: 130px;
+    border: 1px solid red;
+}
+.io-box input {
+    width: 190px;
+    margin: 3px auto;
+    display: block;
+}
+.io-box button, textarea {
+    margin: 3px auto;
+    display: block;
+}
+.footer {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+.footer p {
+    text-align: center;
+}
+
+
+
