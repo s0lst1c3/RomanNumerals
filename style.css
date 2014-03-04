@@ -39,5 +39,10 @@ body h2 {
     text-align: center;
 }
 
-
+body a img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
 
